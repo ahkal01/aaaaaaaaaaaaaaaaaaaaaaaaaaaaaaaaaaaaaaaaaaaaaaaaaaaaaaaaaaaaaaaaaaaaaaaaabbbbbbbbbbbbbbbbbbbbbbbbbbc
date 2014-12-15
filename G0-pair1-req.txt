@@ -1,0 +1,3 @@
+GROUP-NAME:Default Group
+PAIR-NAME:pair-0
+GET /rest/my-example-resource/{THING}
