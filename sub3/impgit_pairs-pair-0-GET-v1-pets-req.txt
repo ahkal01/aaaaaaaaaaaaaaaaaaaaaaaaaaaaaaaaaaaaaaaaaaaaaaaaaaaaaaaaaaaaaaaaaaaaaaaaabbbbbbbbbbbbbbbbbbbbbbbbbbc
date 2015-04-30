@@ -1,0 +1,3 @@
+GROUP-NAME:/v1/pets
+PAIR-NAME:pair-0 GET /v1/pets
+GET /v1/pets
